@@ -1,6 +1,6 @@
 # MPC-Project
-EPFL Project for the course ME-425 by C.N. Jones.
-MPC controller for a rocket simulation in MATLAB.
+EPFL Project for the course [ME-425](https://edu.epfl.ch/coursebook/fr/model-predictive-control-ME-425) by [C.N. Jones](https://people.epfl.ch/colin.jones?lang=fr).
+MPC (Model Predictive Control) controller for a rocket simulation in MATLAB.
 
 Grade for the Project: 6/6 🥳
 
@@ -16,4 +16,4 @@ complex reference path. We will then implement an offset free tracking controlle
 to track the same path reference despite a mass mismatch. Finally, we will design a MPC controller
 for the Non Linear Dynamics and compare its performance against the linear controllers.
 
-See the pdf report for more information
+See the pdf report for more information: [here](MPC_Project_Group46_Report.pdf)
