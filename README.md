@@ -17,3 +17,5 @@ to track the same path reference despite a mass mismatch. Finally, we will desig
 for the Non Linear Dynamics and compare its performance against the linear controllers.
 
 See the pdf report for more information: [here](MPC_Project_Group46_Report.pdf)
+
+![Rocket Path Tracking](img/NMPC.jpg)
